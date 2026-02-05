@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>app_icon.ico</ApplicationIcon>
+    <RootNamespace>NoReinstallHub</RootNamespace>
+    <AssemblyName>NoReinstallHub</AssemblyName>
+    <ProjectName>NoReinstallHub</ProjectName>
+    <!-- Assembly metadata (shown in .exe Properties > Details) -->
+    <Version>1.0.0</Version>
+    <Company>Aimdick</Company>
+    <Product>NoReinstallHub</Product>
+    <Description>Tricking Windows for better storage management</Description>
+    <AssemblyTitle>NoReinstallHub</AssemblyTitle>
+    <AssemblyDescription>Tricking Windows for better storage management</AssemblyDescription>
+  </PropertyGroup>
+
+</Project>
